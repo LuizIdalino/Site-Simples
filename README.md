@@ -20,3 +20,5 @@
 5. Mostre o quantitativo de medalhas de ouro, prata e bronze recebidos por 5 países (escolha 5 países aleatórios).
 
 6. Apresente novidades sobre os jogos, comente sobre algumas modalidades e sobre participantes.
+
+7. <a href="ATPS.html">História das Olimpiadas</a></li>  
