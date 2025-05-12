@@ -21,4 +21,4 @@
 
 6. Apresente novidades sobre os jogos, comente sobre algumas modalidades e sobre participantes.
 
-7. <a href="https://luizidalino.github.io/Site-Simples/%20C%C3%B3digos%20/ATPS.html">História das Olimpiadas</a></li>  
+7.  https://luizidalino.github.io//Site-Simples/Códigos/ATPS.html
