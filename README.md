@@ -21,4 +21,4 @@
 
 6. Apresente novidades sobre os jogos, comente sobre algumas modalidades e sobre participantes.
 
-7. <a href="ATPS.html">História das Olimpiadas</a></li>  
+7. 
