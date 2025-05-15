@@ -2,6 +2,10 @@
     margin: 0;
     padding: 0;
 }
+.container{ 
+margin: 0 auto; width: 940px; 
+}
+
 body {
 background-color: rgb(245,245,245);
 } 
